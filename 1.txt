@@ -1,0 +1,108 @@
+{
+
+    "padding": 10,
+    "images": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "image": "https://p.jihes.com/double11_newac/qc@2x.png",
+                            "weight": 1
+                        },
+                        {
+                            "image": "https://p.jihes.com/double11_newac/9.9@2x.png",
+                            "weight": 1
+                        }
+                    ],
+                    "orientation": "v",
+                    "weight": 1
+                },
+                {
+                    "children": [
+                        {
+                            "image": "https://p.jihes.com/double11_newac/cjq@2x.png",
+                            "weight": 1
+                        },
+                        {
+                            "image": "https://p.jihes.com/double11_newac/th@2x.png",
+                            "weight": 1
+                        }
+                    ],
+                    "orientation": "v",
+                    "weight": 1
+                }
+            ],
+            "height": 0.48,
+            "orientation": "h"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "image": "https://p.jihes.com/double11_newac/da@2x.png",
+                            "weight": 1
+                        }
+                    ],
+                    "orientation": "h",
+                    "weight": 37
+                },
+                {
+                    "children": [
+                        {
+                            "image": "https://p.jihes.com/double11_newac/zh@2x.png",
+                            "weight": 1
+                        },
+                        {
+                            "children": [
+                                {
+                                    "image": "https://p.jihes.com/double11_newac/ju@2x.png",
+                                    "weight": 1
+                                },
+                                {
+                                    "image": "https://p.jihes.com/double11_newac/tao@2x.png",
+                                    "weight": 1
+                                }
+                            ],
+                            "orientation": "h",
+                            "weight": 1
+                        }
+                    ],
+                    "orientation": "v",
+                    "weight": 63
+                }
+            ],
+            "height": 0.6,
+            "orientation": "h"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+2017-11-01 22:40:09.913272+0800 JiHeShi[10209:3524340] CategoryModel接口=========
+==={
+    code = 200;
+    data =     {
+        count = 1;
+        dlqCount = 70;
+        lqAmout = "0.10";
+        showMessage = "";
+        ylqAmount = "33.50";
+    };
+    message = "";
+}
+2017-11-01 22:40:10.129999+0800 JiHeShi[10209:3524340] asdasdasdasdasd
+2017-11-01 22:40:10.981615+0800 JiHeShi[10209:3524340] 22222222222222
+2017-11-01 22:40:15.085622+0800 JiHeShi[10209:3524340] 结束滚动---
+
+
+
